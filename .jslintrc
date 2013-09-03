@@ -1,0 +1,15 @@
+{
+	"predef": [
+		"apiCall",
+		"convertTimestamp",
+		"$",
+		"rootUrl"
+	],
+	"fragment": true,
+	"indent": 4,
+	"white": true,
+	"continue": true,
+	"forin": true,
+	"browser": true,
+	"nomen": true
+}
