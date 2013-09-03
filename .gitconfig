@@ -40,10 +40,10 @@
 
 # Any GitHub repo with my username should be checked out r/w by default
 # http://rentzsch.tumblr.com/post/564806957/public-but-hackable-git-submodules
-[url "git@github.com:mstuart/"]
-  insteadOf = "git://github.com/mstuart/"
+[url "git@github.com:mattbaird/"]
+  insteadOf = "git://github.com/mattbaird/"
 [user]
-	email = stuartmark@gmail.com
-	name = Mark Stuart
+	email = mattbaird@gmail.com
+	name = Matt Baird
 [credential]
 	helper = osxkeychain
